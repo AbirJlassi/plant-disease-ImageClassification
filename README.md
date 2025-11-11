@@ -1,6 +1,5 @@
 #  Plant Disease Classification
 
-![Plant Disease Classification](assets/sample_images/demo_screenshot.png) <!-- optional image -->
 
 This project classifies **38 plant diseases** from leaf images using deep learning models trained on the **PlantVillage dataset**. It provides an interactive **Streamlit interface** for uploading leaf images, comparing model performance, and visualizing training curves.
 
